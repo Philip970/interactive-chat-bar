@@ -1,5 +1,5 @@
 {
-  "name": "ineractive-chat-bar",
+  "name": "interactive-chat-bar",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -12,7 +12,9 @@
     "expo": "~52.0.46",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
-    "react-native": "0.76.9"
+    "react-native": "0.76.9",
+    "react-native-reanimated": "~3.16.1",
+    "@expo/vector-icons": "^14.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

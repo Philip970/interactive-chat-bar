@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ineractive-chat-bar",
-    "slug": "ineractive-chat-bar",
+    "name": "Ineractive Chat Bar",
+    "slug": "interactive-chat-bar",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
